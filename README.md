@@ -1,6 +1,6 @@
 # 📉 Previsão de Churn em Telecom
 
-![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
+![CI](https://github.com/Ka1ux/churn-prediction-telecom/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
 
 Projeto de **Ciência de Dados** que prevê quais clientes de uma operadora de
 telecom têm maior risco de cancelar o serviço (*churn*). Cobre o ciclo completo:
